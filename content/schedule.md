@@ -42,9 +42,9 @@ Join us for a full day across the Core, Enterprise, and DevOps tracks.
     <tr>
       <th scope="row">11:00 HRS</th>
       <td>90 minutes</td>
-      <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "thomas-froment" >}}{{< speaker "ivar-grimstad" >}}</div>{{< session-title "agentic-java-development-eclipse-theia" >}}</div></td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "pushkar-kulkarni" >}}{{< speaker "samir-kamerkar" >}}</div>{{< session-title "building-mcp-applications-with-spring-ai" >}}</div></td>
+      <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "thomas-froment" >}}{{< speaker "ivar-grimstad" >}}</div>{{< session-title "agentic-java-development-eclipse-theia" >}}</div></td>
+      <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "pushkar-kulkarni" >}}{{< speaker "samir-kamerkar" >}}</div>{{< session-title "building-mcp-applications-with-spring-ai" >}}</div></td>
       <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "margi-shah" >}}</div>{{< session-title "black-friday-meltdown-java-production-war-game" >}}</div></td>
-      <td>
     </tr>
     <tr>
       <th scope="row">12:30 HRS</th>
@@ -62,7 +62,7 @@ Join us for a full day across the Core, Enterprise, and DevOps tracks.
       <th scope="row">14:30 HRS</th>
       <td>60 minutes</td>
       <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "jsk" >}}{{< speaker "vaibhavchoudhary" >}}</div>
-      <span class="schedule-session-title">scale-more-spend-less</span></div> </td>
+      {{< session-title "scale-more-spend-less" >}}</div> </td>
       <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "ranganaths" >}}</div>{{< session-title "system-models-jev" >}}</div></td>
       <td><div class="schedule-session-cell"><div class="schedule-speakers">{{< speaker "thamaraip" >}}</div>{{< session-title "dont-trust-the-prompt" >}}</div></td>
     </tr>
